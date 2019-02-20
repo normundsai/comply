@@ -57,6 +57,7 @@ Join us in [Comply Users](https://join.slack.com/t/comply-users/shared_invite/en
 ## Dependencies
 
 Comply relies on [pandoc](https://pandoc.org/), which can be installed directly as an OS package or invoked via Docker.
+On Debian you might need to install addtiionallly texlive-fonts-recommended and texlive-latex-extra packages.
 
 ## CLI
 
